@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/malavita-del-sud","Malavita Del Sud Bot"];
+const statusMessages = ["discord.gg/malavita-del-sud","Malavita Del Sud Official Bot"];
 
 
 let currentIndex = 0;
